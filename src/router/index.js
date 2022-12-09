@@ -1,12 +1,12 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import profile from '../views/ProFileView.vue'
+import profileview from '../views/ProfileView.vue'
 
 
 const routes = [
     {
         path: '/',
         name: 'profile',
-        component: profile,
+        component: profileview,
         // này để các trang không cần đăng nhập
         meta: {
             publicPage: true,
