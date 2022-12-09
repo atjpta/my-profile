@@ -19,7 +19,7 @@
           <li>my goal is to become a full stack developer.</li>
         </ul>
         <a
-          href="../../public/CV_Cao_Duc_An_Fullstack_Developer.pdf"
+          href="../../CV_Cao_Duc_An_Fullstack_Developer.pdf"
           class="btn btn-primary btn-outline mt-5"
         >
           <i class="fa-solid fa-download mr-1"></i>
